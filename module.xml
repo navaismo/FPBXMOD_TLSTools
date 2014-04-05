@@ -1,0 +1,23 @@
+<module>
+        <rawname>tlstools</rawname>
+        <name>TLS Tools</name>
+        <version>0.1</version>
+        <type>tool</type>
+        <publisher>Navaismo</publisher>
+        <license>GPLv2+</license>
+        <description>
+                Provides the ability to generate the Keys for secure calling
+        </description>
+ 	<changelog>
+                *0.1* First Release (Ultrabeta)
+        </changelog>
+        <info>navaismo@gmail.com</info>
+        <category>Unsupported</category>
+        <menuitems>
+                <tlstools category="Admin">TLS Tools</tlstools>
+        </menuitems>
+</module>
+
+
+
+
